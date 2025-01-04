@@ -9,4 +9,4 @@
 | project-based-learning | https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file |
 
 | Awesome cheatsheets | https://lecoupa.github.io/awesome-cheatsheets/ |
-|      SQL      | https://www.boot.dev/u/loyalmouth88 |
+|        SQL          | https://www.boot.dev/u/loyalmouth88 |
