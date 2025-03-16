@@ -35,7 +35,21 @@ for(int i=n-1; i>-1; i--){
 
 ### Time Complexity
 
-TC-> O(n logn) + O(n)
+TC-> O(n logn) + O(n)\
 TC-> O(n logn)
 
 ---
+
+### Case 3: Optimal Approach
+
+```cpp
+int max=INT_MIN,secMax=0;
+for(int i=0;i<n;i++){
+    if(arr[i]>max){
+        arr[secMax]=max;
+        max=arr[i];
+    }
+    else if(arr[i]>arr[secMax])
+        arr[secMax]=arr[i];
+}
+```

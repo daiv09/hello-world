@@ -39,3 +39,17 @@ TC-> O(n logn) + O(n)
 TC-> O(n logn)
 
 ---
+
+### Case 3: Optimal Approach
+
+```cpp
+int min=INT_MAX,secMin=arr[0];
+for(int i=0;i<n;i++){
+    if(arr[i]<min){
+        secMin=min;
+        min=arr[i];
+    }
+    else if(secMin>arr[i])
+        secMin=arr[i]
+}
+```
