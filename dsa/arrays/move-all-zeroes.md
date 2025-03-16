@@ -2,6 +2,8 @@
 
 ## Brute Approach
 
+Using extra memory to store non-zero elements 
+
 ```cpp
 int arr[n];
 vector<int> v;
@@ -24,5 +26,14 @@ SC-> O(n)
 
 Two Pointer Approach
 ```cpp
-
+i=0,j=n-1;
+for(;i<n;i++){
+    if(arr[i]==0){
+        swap(arr[i],arr[j])
+        j--;
+    }
+}
 ```
+
+TC-> O(n)
+Problem-> This changes the relative order of the elements 
