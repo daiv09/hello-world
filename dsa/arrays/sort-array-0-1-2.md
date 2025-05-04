@@ -4,7 +4,7 @@
 ```cpp
 // sorting the array
 ```
-TC-> O(n)
+TC-> O(nlogn)
 
 ## Better Solution
 ```cpp
