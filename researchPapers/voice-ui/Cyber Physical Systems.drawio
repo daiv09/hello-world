@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.0.1">
   <diagram id="4MgxAiT06_KZMxbBPTQe" name="Page-1">
-    <mxGraphModel dx="595" dy="321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1737" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,7 +18,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RmRmJjvTmahBdNnuwfnu-1" value="&lt;font&gt;&lt;b&gt;&lt;u&gt;Difference Between&amp;nbsp;&lt;span style=&quot;font-family: Arial, sans-serif; white-space-collapse: preserve;&quot;&gt;Cyber Physical Systems&lt;/span&gt;&amp;nbsp;&lt;span id=&quot;docs-internal-guid-bd25a543-7fff-135d-6c64-f71b7c403fb6&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;and Internet of Things &lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="RmRmJjvTmahBdNnuwfnu-1" value="&lt;font&gt;&lt;b&gt;&lt;u&gt;Difference Between&amp;nbsp;&lt;span style=&quot;font-family: Arial, sans-serif; white-space-collapse: preserve;&quot;&gt;Cyber Physical Systems&lt;/span&gt;&amp;nbsp;&lt;span id=&quot;docs-internal-guid-bd25a543-7fff-135d-6c64-f71b7c403fb6&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;and Internet of Things &lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=27;" parent="1" vertex="1">
           <mxGeometry x="25" y="20" width="1105" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RmRmJjvTmahBdNnuwfnu-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=15;" parent="1" source="RmRmJjvTmahBdNnuwfnu-3" target="RmRmJjvTmahBdNnuwfnu-7" edge="1">
@@ -50,7 +50,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RmRmJjvTmahBdNnuwfnu-3" value="&lt;b&gt;Cyber Physical Systems&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="RmRmJjvTmahBdNnuwfnu-3" value="&lt;b&gt;Cyber Physical Systems&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="25" y="110" width="520" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RmRmJjvTmahBdNnuwfnu-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=15;" parent="1" source="RmRmJjvTmahBdNnuwfnu-5" target="RmRmJjvTmahBdNnuwfnu-25" edge="1">
@@ -75,7 +75,7 @@
             <mxPoint x="885" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RmRmJjvTmahBdNnuwfnu-5" value="&lt;b&gt;Internet of Things&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="RmRmJjvTmahBdNnuwfnu-5" value="&lt;b&gt;Internet of Things&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="625" y="110" width="505" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RmRmJjvTmahBdNnuwfnu-7" value="&lt;div&gt;&lt;b&gt;Origin&lt;br&gt;&lt;/b&gt;&lt;i&gt;Emerged from System Engineering Perspective&lt;/i&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" parent="1" vertex="1">
